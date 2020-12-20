@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Gods Purpose for Mankind
 - 🌱 I’m currently learning Advanced React Spring Physics
 - 👯 I’m looking to collaborate on FaunaDB
-- 🤔 I’m looking for help with Expire User Tokens in FAunaDB
+- 🤔 I’m looking for help with Expire User Tokens in FaunaDB
 - 💬 Ask me about Gatsby, React, Jekyll, Netlify, SEO 
 - 📫 How to reach me: donaldboulton@gmail.com
 - 😄 Pronouns: ...
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Development Stack I currently use
 
  You can always see what I've been up to at  <a href="https://publiuslogic.comg/" target="_blank">publiuslogic.com</a>.
- 
+
 <p>
   <a href="https://www.gatsbyjs.org/"><img src="https://user-images.githubusercontent.com/16360374/54067385-3051be80-41f4-11e9-9daf-29f910f35427.png" alt="GatsbyJS" height="40"></a>
   <a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/16360374/54067296-34c9a780-41f3-11e9-985c-dae0828c2470.png" alt="React" height="40"></a>
