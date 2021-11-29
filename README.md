@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Expire User Tokens in FaunaDB
 - 💬 Ask me about Gatsby, React, Jekyll, Netlify, SEO 
 - 📫 How to reach me: donaldboulton@gmail.com
-- 😄 Pronouns: ...
+- 😄 Two Gatsby v4.2.0 Starters Basic Instructions and Dimension V4
 - ⚡ Fun fact: Work For God Full Time since the beginning of time.
 
 ## Development Stack I currently use
