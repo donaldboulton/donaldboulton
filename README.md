@@ -28,7 +28,4 @@ Here are some ideas to get you started:
   <a href="https://nodejs.com/"><img alt="Node.js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
   <a href="https://www.react-spring.io/"><img src="https://user-images.githubusercontent.com/16360374/54067378-26c85680-41f4-11e9-8cca-552b091b267b.png" alt="React Spring" height="40"></a>
   <a href="https://github.com/donaldboulton"><img alt="GitHub" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
-</p>
-  <a href="https://disqus.com/"><img src="https://user-images.githubusercontent.com/16360374/55284185-43087080-5326-11e9-9931-cf0baddc2684.png" alt="Disqus" height="40"></a>
-</p>
 
