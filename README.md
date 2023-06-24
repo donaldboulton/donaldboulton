@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on FaunaDB
 - 🤔 I’m looking for someone to have discussions about God.
 - 💬 Ask me about Gatsby, React, Jekyll, Node, React Spring. Netlify or SEO, Anything!
-- 📫 How to reach me: donaldboulton@gmail.com
+- 📫 How to reach me: donboulton@hotmail.com
 - 😄 Pronouns: Holy Spirit, Old Hippie, God Lover
 - 😄 Two Gatsby v4.2.0 Starters Basic Instructions and Dimension V4
 - ⚡ Fun fact: Work For God Full Time since the beginning of time.
